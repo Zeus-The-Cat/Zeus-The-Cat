@@ -27,7 +27,7 @@ Currently open to new opportunities
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://linkedin.com/in/Dakotah-Pettry)
 [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://linkedin.com/in/Dakotah-Pettry)
 -**Languages**
-![Javascript](https://unpkg.com/simple-icons@v5/icons/javascript.svg)
+![Javascript|32](https://unpkg.com/simple-icons@v5/icons/javascript.svg)
 [<img align="left" alt="Javascript" width="32px" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />](https://linkedin.com/in/Dakotah-Pettry)
 [<img align="left" alt="Java" width="32px" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />](https://linkedin.com/in/Dakotah-Pettry)
 [<img align="left" alt="Cplusplus" width="32px" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />](https://linkedin.com/in/Dakotah-Pettry)
