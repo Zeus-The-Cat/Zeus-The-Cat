@@ -8,9 +8,10 @@
 - ⚡ Fun fact: I enjoy modding games, cooking, politics, and traveling
 
 ### Connect with me:
+Currently open to new opportunities
 
-[<img align="left" alt="Zeus-The-Cat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Dakotah-Pettry)
-
+[Linkedin](https://linkedin.com/in/Dakotah-Pettry)
+[Email](dakotahpettry@gmail.com)
 <br />
 
 ### Languages and Tools:
@@ -25,7 +26,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://linkedin.com/in/Dakotah-Pettry)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://linkedin.com/in/Dakotah-Pettry)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://linkedin.com/in/Dakotah-Pettry)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://linkedin.com/in/Dakotah-Pettry)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://linkedin.com/in/Dakotah-Pettry)
 
 <br />
