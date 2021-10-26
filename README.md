@@ -11,7 +11,7 @@
 Currently open to new opportunities
 
 [Linkedin](https://linkedin.com/in/Dakotah-Pettry)
-[Email](dakotahpettry@gmail.com)
+
 <br />
 
 ### Languages and Tools:
