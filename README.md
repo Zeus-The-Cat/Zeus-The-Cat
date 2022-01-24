@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React Native, CNNs, and C#
 - 👯 I'm looking to grow my experience and connect with other passionate creators
-- 🥅 2021 Goals: implement a deep reinforced learning system in python and master UX design
+- 🥅 2022 Goals: implement a deep reinforced learning system in python and master UX design
 - ⚡ Fun fact: I enjoy modding games, cooking, politics, and traveling
 
 ### Currently open to new opportunities:
