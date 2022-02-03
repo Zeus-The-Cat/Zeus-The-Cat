@@ -2,10 +2,10 @@
 
 ## I'm a Front-End developer who dabbles in databases and machine learning!!
 
-- 🌱 I’m currently learning React Native, CNNs, and C#
-- 👯 I'm looking to grow my experience and connect with other passionate creators
-- 🥅 2022 Goals: implement a deep reinforced learning system in python and master UX design
-- ⚡ Fun fact: I enjoy modding games, cooking, politics, and traveling
+- 🌱 Currently learning React Native, CNNs, and C#
+- 👯 Looking to grow my experience and connect with other passionate developers
+- 🥅 2022 Goals: implement a deep reinforced learning system in python and develop new UX patterns
+- ⚡ I enjoy modding games, cooking, politics, and nature 
 
 ### Currently open to new opportunities:
 
