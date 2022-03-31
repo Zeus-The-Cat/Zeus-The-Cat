@@ -4,7 +4,25 @@
 
 - Currently learning React Native, CNNs, and C#
 - Looking to grow my experience and connect with other passionate developers
-- 2022 Goals: implement a deep reinforced learning system in python and develop new UX patterns
+- 2022 Goals: improve experience with:
+		- Docker
+		- Kubernetes
+		- the container ecosystem
+	- ETL pipelines 
+		- Kinesis 
+		- Apache Airflow 
+		- Redshift
+	- GraphQL APIs
+	- Integrating with an ad platform or SDK: 
+		- Amazon Ad Exchange
+		- Google IMA/GMA SDK
+		- DoubleClick API
+	- AWS ecosystem of services 
+		- EC2
+		- RDS
+		- Dynamo
+		- Lambda 
+		- CloudWatch
 
 ### Currently open to new opportunities:
 
